@@ -1,0 +1,6 @@
+print("hello world!")
+a=1
+b=5
+sum=a+b
+print("sumof a and b is :", sum)
+print("hello JSD batch")
